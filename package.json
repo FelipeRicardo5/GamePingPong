@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "p5.collide2d": "^0.7.3",
+    "p5.joystick": "^1.0.0"
+  }
+}
